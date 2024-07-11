@@ -1,6 +1,6 @@
 # Hi there! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="29px" height="29px">
 
-🎓 I am Conor Quinlan, a **Security Engineer** (specializing in **Secure Software Engineering**). I am also a graduate with my Bachelor of Science in **Computer Science** graduated in mid-2024.
+🎓 I am Conor Quinlan, a **Security Engineer**. I am also a graduate with my Bachelor of Science in **Computer Science** graduated in mid-2024.
 
 👨‍💻 I enjoy contributing to **Open Source Projects** and have contributed to several large open-source repositories including, **PearAI**.
 🎸 Outside the world of tech too, I enjoy learning new skills! My hobbies range from **producing music**, **pushing myself in the gym**, **car camping**, and **playing sports**.
@@ -21,3 +21,6 @@
 ![supabase](https://img.shields.io/badge/Supabase-ffaa00?style=for-the-badge&logo=Supabase&logoColor=white)
 ![figma](https://img.shields.io/badge/figma-000000?style=for-the-badge&logo=figma&logoColor=white)
 ![pytest](https://img.shields.io/badge/Pytest-3776AB?style=for-the-badge&logo=python&logoColor=white)
+
+## 🔗 Links
+[![portfolio](https://img.shields.io/badge/Portfolio-5340ff?style=for-the-badge&logo=Google-chrome&logoColor=white)](https://cqdev-co.github.io/)
