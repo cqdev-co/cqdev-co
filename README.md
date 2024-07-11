@@ -12,19 +12,28 @@
 ### Languages
 
 ![python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![java](https://img.shields.io/badge/Java-3776AB?style=for-the-badge&logo=java&logoColor=white)
+![typescript](https://img.shields.io/badge/TypeScript-3776AB?style=for-the-badge&logo=typescript&logoColor=white)
 ![c](https://img.shields.io/badge/C-3776AB?style=for-the-badge&logo=c&logoColor=white)
+![c++](https://img.shields.io/badge/C++-3776AB?style=for-the-badge&logo=c++&logoColor=white)
 
 
 ### Front-End Development
 
 ![next](https://img.shields.io/badge/Next-000000?style=for-the-badge&logo=nextdotjs&logoColor=FFFFFF)
 ![react](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![react-router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white)
 ![tailwind-css](https://img.shields.io/badge/tailwind_css-06B6D4?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![three.js](https://img.shields.io/badge/Three.js-000000?style=for-the-badge&logo=three.js&logoColor=white)
 ![html](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![css](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![jquery](https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white)
+
+### Back-End Development
+
+![flask](https://img.shields.io/badge/Flask-3776AB?style=for-the-badge&logo=flask&logoColor=white)
+
+### DevOps 
+
+![github](https://img.shields.io/badge/GitHub-3776AB?style=for-the-badge&logo=github&logoColor=white)
 
 ### Cross Platform Development
 
