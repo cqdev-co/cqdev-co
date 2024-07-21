@@ -2,7 +2,7 @@
 
 🎓 I am Conor Quinlan, a **Security Engineer**. I am also a graduate with my Bachelor of Science in **Computer Science** graduated in mid-2024.
 
-👨‍💻 I enjoy contributing to **Open Source Projects** and have contributed to several large open-source repositories including, **PearAI**.
+👨‍💻 I enjoy contributing to **Open Source Projects** and have contributed to several large open-source repositories including, **PearAI** and **Apollo**.
 🎸 Outside the world of tech too, I enjoy learning new skills! My hobbies range from **producing music**, **pushing myself in the gym**, **car camping**, and **playing sports**.
 
 ## 🛠️ Skills
