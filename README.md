@@ -5,9 +5,6 @@
 👨‍💻 I enjoy contributing to **Open Source Projects** and have contributed to several large open-source repositories including, **PearAI** and **Apollu**.
 🎸 Outside the world of tech too, I enjoy learning new skills! My hobbies range from **producing music**, **pushing myself in the gym**, **car camping**, and **playing sports**.
 
-PearAI: https://trypear.ai/
-Apollu: https://www.apollu.io/
-
 ## 🛠️ Skills
 
 ![python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
@@ -26,4 +23,4 @@ Apollu: https://www.apollu.io/
 ![pytest](https://img.shields.io/badge/Pytest-3776AB?style=for-the-badge&logo=python&logoColor=white)
 
 ## 🔗 Links
-[![portfolio](https://img.shields.io/badge/Portfolio-5340ff?style=for-the-badge&logo=Google-chrome&logoColor=white)](https://cqdev-co.github.io/)
+[![portfolio](https://img.shields.io/badge/Portfolio-5340ff?style=for-the-badge&logo=Google-chrome&logoColor=white)](https://conorq.com/)
